@@ -1,7 +1,8 @@
 
 import "../HomeBanner/HomeBanner.css";
 import homeBannerItemProduct from "../../../../HomeProduct.json";
-import bannerImg1 from "./src/Assets/bannerImg1.jpg";
+import bannerImg1 from "../../../../Assets/bannerImg1.jpg";
+
 function HomeBanner() {
     return (
         <>

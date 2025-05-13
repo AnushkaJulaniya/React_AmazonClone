@@ -10,8 +10,8 @@ import { useCart } from "../../../redux/Reducer/Reducer.jsx";
 import { useAuth } from "../../../Pages/homepage/auth/Auth.jsx";
 import { getAuth, signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
-import amazonLogo  from "./src/Assets/amazonLogo.svg";
-import IndianFlag from "./src/Assets/Flag_of_India.svg.webp";
+import amazonLogo  from "../../../Assets/amazonLogo.svg";
+import IndianFlag from "../../../Assets/Flag_of_India.svg.webp";
 
 import '../NavbarBelt/navbarBelt.css';
 

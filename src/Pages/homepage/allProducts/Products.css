@@ -1,0 +1,166 @@
+.productPage{
+    width:100%;
+}
+.productTopBanner{
+    display: flex;
+    box-shadow:0 0 1px #747474;
+    height:50px;
+    gap:25px;
+    padding:0 9px 0 15px;
+
+}
+.productTopBannerItems{
+padding:0 13px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 600;
+}
+.productTopBannerItemsSubMenu{
+    padding: 0 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 400;
+    cursor:pointer;
+    &:hover{
+       text-decoration: underline;
+        text-decoration-color: #febd69;
+        text-decoration-thickness:1px ;
+    }
+}
+.productsPageMain{
+   display: flex;
+   padding:16px 8px;
+
+}
+.productsPageMainLeftCategory{
+    width: 14%;
+    border-right: 2px solid #ddd;
+    padding:0 10px;
+
+}
+.productsPageMainLeftCategoryTitle{
+    font-weight:700;
+    font-size:14px;
+}
+.productsPageMainLeftCategoryContent{
+    margin-top:10px;
+    font-size: 14px;
+    gap:10px;
+    display: flex;
+    flex-direction: column;
+}
+.productsPageMainLeftCategoryContentSub{
+font-weight:600;
+}
+.ratingLeftBox{
+    display:flex;
+    font-size: 16px;
+ color:#febd69;
+ gap:3px;
+}
+.andUp{
+    color:black;
+    font-size: 14px;
+    font-weight:400;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.productsPageMainRight{
+    width:86%;
+    padding:0 0 0 12px;
+
+}
+.productsPageMainRightTopBanner{
+    width: 99%;
+    border:1px solid;
+    margin:20px 0;
+    box-sizing: border-box;
+    padding:14px 38px;
+    border-radius: 5px;
+    font-size:14px;
+}
+.productsPageMainRightTopBannerSpan{
+  font-weight:700;
+  color:#c45500;
+}
+.ItemsImageProductPage{
+    width:100%;
+    display: grid;
+    gap:50px;
+    grid-template-columns: 344px 344px 344px;
+}
+.ItemsImageProductPageOne{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height:640px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.imgBlockItemsImageProductPageOne{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    border-right-style: 5px;
+    border-top-left-radius: 5px;
+    background-color:rgb(247,247,247);
+    padding:40px 20px;
+}
+.productImageProduct{
+    width:100%;
+    height:260px;
+
+}
+.productNameProduct{
+    border:1px solid #efeeee;
+    border-top:none;
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+
+}
+.productNameProductRating{
+    color:#febd69;
+    font-size:16px;
+    margin-top:10px 0 ;
+}
+.priceProductDetailPage{
+    display: flex;
+}
+.currencyText{
+    font-size:13px;
+}
+.rateHomeDetail{
+    font-size: 28px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.addToBasketBtn{
+    background-color: #febd69;
+    width:fit-content;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    padding: 10px;
+    border-radius:5px;
+    cursor: pointer;
+}
+.offProductPage{
+    color:#727171;
+    font-weight:400;
+}
+.freeDeliveryHomePage{
+    font-weight: 400;
+    margin-top: 10px;
+}

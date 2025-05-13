@@ -1,0 +1,89 @@
+.HomeDetails{
+    width:100%;
+    padding : 20px;
+    background-color:rgb(238 ,235 , 235 );
+    box-sizing:border-box;
+    display: flex;
+    flex-direction: column;
+      gap:20px;
+
+}
+.homeDetailsLongCard{
+    width:100%;
+    background-color: white;
+    box-sizing:border-box;
+    padding:15px;
+}
+.homeDetailsLongCardTitle{
+    font-size: 21px;
+    font-weight: 600;
+}
+.homeDetailLongCardItems{
+    width: 100%;
+    height:100%;
+    display: flex;
+    gap:10px;
+    box-sizing: border-box;
+    padding:10px 0;
+    overflow:hidden;
+    margin-top: 10px;
+}
+.scrollDiv{
+    display:flex;
+    width:100%;
+    gap:15px;
+overflow-x: auto;
+
+}
+.scrollDiv::-webkit-scrollbar{
+    width:8px;
+    height:8px;
+}
+.homeDetailsLongCard_perItem{
+ width:17%;
+display: flex;
+flex-shrink: 0;
+cursor:pointer;
+flex-direction: column;
+align-items: center;
+padding:10px;
+background-color: rgb(247 , 247 , 247);
+
+}
+.homeDetailsLongCard_perItem img{
+    max-width:200px;
+    height:auto;
+    display: block;
+}
+.homeDetailsLongCardItemImg{
+    width:60%;
+    
+}
+.homeDetailsLongItemImgDetail{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.homeDetailLongCardItemImgTopDetails{
+    display:flex;
+    gap:5px;
+}
+.homeDetailPercentageOff{
+    background-color: #cc0c39;
+    border-radius: 2px;
+    color:white;
+    padding:4px 6px;
+    font-size: 12px;
+    font-weight:500;
+    margin-top: 2px;
+}
+.limitedTimeDealHomeDetail{
+    font-size:12px;
+    display: flex;
+    align-items: center;
+}
+.bottomHomeDetail{
+    font-size: 12px;
+    padding:2px 0;
+    
+}

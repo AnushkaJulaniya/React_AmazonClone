@@ -1,0 +1,42 @@
+{
+    "moreProducts" : [
+       {
+         "id": 1,
+"title": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage)",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075065521-galaxy M13.jpg",
+"price": 140
+       },
+       {
+        "id": 2,
+"title": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691078965685-redmi note 12 5g.jpg",
+"price": 229
+       },{
+        "id": 3,
+"title": " Xiaomi 11T Pro 5G Hyperphone (Meteorite Black, 8GB RAM, 256GB Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691078241728-xiaomi 11T Pro 5G.jpg",
+"price": 507
+       },
+       {
+"id": 4,
+"title": "Sennheiser HD 400s Wired Over The Ear Headphone with Mic (Black)",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691055730759-headphone4.jpg",
+"price": 54
+       },{
+       
+"id": 5,
+"title": " DENON Home 350 Wireless Speaker - Powerful Room Filling Sound with Bluetooth, AirPlay 2 and Alexa Built-in - White",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692947856684-81xoxBiCcjL._SL1500_.jpg",
+"price": 919
+       },
+      {
+         "id": 48,
+"title": "Mi 125 cm (50 inches) X Series 4K Ultra HD Smart Android LED TV L50M7-A2IN (Black)",
+"image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694155239807-81UT46-gwRL._SL1500_.jpg",
+"price": 384
+      }
+
+       
+
+    ]
+}

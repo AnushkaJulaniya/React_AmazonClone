@@ -1,0 +1,271 @@
+.navbarBelt{
+    width:100%;
+    height:60px;
+    display:flex;
+    /* justify-content: center; */
+    align-items: center;
+    box-sizing: border-box;
+    color:white;
+    background-color: #2d425b;
+ 
+}
+.leftNavbarBelt{
+    /* border: 2px solid white; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+    padding:10px;
+    
+}
+.leftNavBeltLogo{
+    width:170px;
+    height:50px;
+    cursor:pointer;
+    color:white;
+    display: flex;
+  justify-content: center;
+    padding: 8px;
+}
+.leftNavBeltLogo:hover{
+    border:1px solid;
+    border-radius: 3px;
+    color:black;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+.amazonLogoNavbar{
+    width: 97px;
+    height:100%;
+ }
+ .navbar_inLogo{
+    font-size: 1.2rem;
+    display:flex;
+    justify-content: center;
+    margin-left: 2px;
+ }
+
+
+
+
+
+   /* locaton div */
+   .navbarBeltLocation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding:8px;
+    width:200px;
+    height:50px;
+    cursor:pointer;
+
+
+   }
+   .navbarBeltLocation:hover{
+   border-radius: 3px;
+   border:1px solid;
+   }
+   .navbarBeltLocationImg{
+    width:15px;
+    padding-top:7px;
+
+   }
+ .navbarBeltLocationImgIcon{
+    font-size:1.52rem;
+    /* margin-top:3px; */
+ }
+ .navbarBeltLocationPlace{
+    display:flex;
+    flex-direction: column;
+    gap:2px;
+ }
+ .navbarBeltLocationTop{
+    font-weight:500;
+    color:#ccc;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+
+    
+ }
+ .navbarBeltLocationBottom{
+    font-weight:600;
+    font-size: 14px;
+    line-height: 10px;
+    
+ }
+ .NavbarBeltSearchBox{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:50%;
+
+ }
+ .navbarBeltSearchDiv{
+    display:flex;
+    width:100%;
+    height:40px;
+    border-radius: 5px;
+    /* border:1px solid #282e39; */
+ }
+ .navbarBeltSearchBoxAll{
+    display: flex;
+    background-color: #cdcddc;
+    gap:5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    padding:5px;
+    cursor:pointer;
+    color:#999999;
+}
+.navbarBeltSearchBoxAllText{
+    font-weight:600;
+    font-size: 12px;
+}
+.navbarBeltSearchBoxAllTextIcon{
+   font-size:20px;
+}
+/* input search box */
+.navbarBeltInputSearchBox{
+    padding:5px;
+    width:86%;
+
+}
+.navbarBeltInputSearchBox::placeholder{
+    color:gray;
+    font-weight: 500;
+    font-size: 15px;
+  &:focus{
+    outline: none;
+  }
+
+}
+
+/* search icon */
+.searchIconNavbarBelt{
+background-color: #febd69;
+font-size:10px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding:10px;
+cursor:pointer;
+ &:hover{
+    background-color:#f1ba73 ;
+ }
+}
+.searchIconNavbarBeltIcon{
+font-size:18px;
+font-weight:bold;
+color:black;
+}
+
+
+/* rightside navbar */
+.rightNavbarBelt{
+    display: flex;
+    color:white;
+    gap:1px;
+    padding-right:10px;
+}
+.indiaFlagCode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+    padding-top:10px;
+    padding:8px;
+    cursor:pointer;
+    height:50px;
+    &:hover{
+        border-radius: 3px;
+        border:1px solid;
+    }
+}
+.indiaFlag{
+    width:20px;
+    height: 20px;
+}
+.indiaCodeNavbarBelt{
+    font-size: 14px;
+    display: flex;
+    line-height: 13px;
+    align-items: center;
+    font-weight:700;
+
+}
+.IndianFlagDopDownIcon{
+  color:#ccc;
+    
+}
+.helloSignInNavbarBelt{
+    display: flex;
+    position:relative;
+    color:white;
+    text-decoration: none;
+    flex-direction: column;
+    width:140px;
+    height: 50px;
+    padding:8px;
+    cursor:pointer;
+    &:hover{
+        border-radius: 3px;
+        border:1px solid;
+    }
+}
+.helloTopNavbarBelt{
+    font-size: 12px;
+    font-weight:500;
+}
+/* order & return  */
+.orderReturnNavbarBelt{
+    display: flex;
+    position:relative;
+    color:white;
+    text-decoration: none;
+    flex-direction: column;
+    width:80px;
+    height: 50px;
+    padding:8px;
+    cursor:pointer;
+    &:hover{
+        border-radius: 3px;
+        border:1px solid;
+    }
+}
+/* cart */
+.cartNavbarBelt{
+    display: flex;
+    position:relative;
+    color:white;
+    text-decoration: none;
+    flex-direction: column;
+    width:50px;
+    height: 50px;
+    padding:8px;
+    cursor:pointer;
+    &:hover{
+        border-radius: 3px;
+        border:1px solid;
+    }
+}
+.CartTitle{
+    font-size: 14px;
+    font-weight: 500;
+}
+.CartItemNumberNavbarBelt{
+position:absolute;
+bottom:70%;
+left:32%;
+color:#febd69;
+font-weight: 600;
+font-size: 16px;
+}
+.cartIconNavbarBelt{
+font-size: 1.5rem;
+
+}

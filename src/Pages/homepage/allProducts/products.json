@@ -1,0 +1,269 @@
+{
+"product": [
+  {
+    "id": 1,
+    "title": "Samsung Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "price": 124999,
+    "image": "https://m.media-amazon.com/images/I/71Sa3dq5SXL.SX679.jpg",
+    "rating": 4.5,
+    "reviews": 1200,
+    "description": "6.8-inch QHD+ Display, Snapdragon 8 Gen 2, 12GB RAM, 256GB Storage, 200MP Camera",
+    "category": "New Technology"
+  },
+  {
+    "id": 2,
+    "title": "Apple iPhone 14 Pro Max",
+    "brand": "Apple",
+    "price": 139999,
+    "image": "https://m.media-amazon.com/images/I/61nzPMNY8zL.SX679.jpg",
+    "rating": 4.8,
+    "reviews": 2100,
+    "description": "6.7-inch Super Retina XDR, A16 Bionic Chip, 6GB RAM, 256GB Storage, 48MP Camera",
+    "category": "New Technology"
+  },
+  {
+    "id": 3,
+    "title": "OnePlus 12R",
+    "brand": "OnePlus",
+    "price": 42999,
+    "image": "https://m.media-amazon.com/images/I/61amb0CfMGL.SX679.jpg",
+    "rating": 4.4,
+    "reviews": 900,
+    "description": "6.78-inch AMOLED Display, Snapdragon 8 Gen 2, 16GB RAM, 256GB Storage, 50MP Camera",
+    "category": "New Technology"
+  },
+  {
+    "id": 4,
+    "title": "Redmi Note 13 Pro+ 5G",
+    "brand": "Redmi",
+    "price": 31999,
+    "image": "https://m.media-amazon.com/images/I/81AMg4t1quL.SX679.jpg",
+    "rating": 4.3,
+    "reviews": 800,
+    "description": "6.67-inch AMOLED Display, Dimensity 7200, 12GB RAM, 256GB Storage, 200MP Camera",
+    "category": "New Technology"
+  },
+  {
+    "id": 5,
+    "title": "Realme Narzo 60 5G",
+    "brand": "Realme",
+    "price": 17999,
+    "image": "https://m.media-amazon.com/images/I/81HNfHNRfFL.SX679.jpg",
+    "rating": 4.1,
+    "reviews": 600,
+    "description": "6.43-inch AMOLED Display, Dimensity 6020, 8GB RAM, 128GB Storage, 64MP Camera",
+    "category": "Mobiles"
+  },
+  {
+    "id": 6,
+    "title": "Half CA",
+    "brand": "Drama, Youth",
+    "rating": 4.6,
+    "thumbnail": "https://m.media-amazon.com/images/I/71CMc1tD5rL.SX679.jpg",
+    "description": "A relatable story of CA aspirants navigating challenges, friendships, and personal goals.",
+    "cast": ["Ahsaas Channa", "Gyanendra Tripathi", "Prit Kamani"],
+    "category": "Amazon miniT"
+  },
+  {
+    "id": 7,
+    "title": "Crushed",
+    "brand": "Romance, School Life",
+    "rating": 4.5,
+    "thumbnail": "https://m.media-amazon.com/images/I/81B4m7m-xFL.SX679.jpg",
+    "description": "Teenage school love story filled with innocent crushes, heartbreaks, and friendships.",
+    "cast": ["Aadhya Anand", "Naman Jain", "Urvi Singh"],
+    "category": "Amazon miniT"
+  },
+  {
+    "id": 8,
+    "title": "Highway Love",
+    "brand": "Romance, Road Trip",
+    "rating": 4.3,
+    "thumbnail": "https://m.media-amazon.com/images/I/61a1wMnpHtL.SX679.jpg",
+    "description": "Two strangers embark on a road trip, discovering love and life along the way.",
+    "cast": ["Ritvik Sahore", "Gayatri Bhardwaj"],
+     "category": "Amazon miniT"
+  },
+  {
+    "id": 9,
+    "title": "Yeh Meri Family",
+    "brand": "Family, Nostalgia",
+    "rating": 4.8,
+    "thumbnail": "https://m.media-amazon.com/images/I/81vTzA5Lf3L.SX679.jpg",
+    "description": "A nostalgic 90s tale of growing up in a middle-class Indian family.",
+    "cast": ["Juhi Parmar", "Rajesh Kumar", "Hetal Gada"],
+     "category": "Amazon miniT"
+  },
+  {
+    "id": 10,
+    "title": "Physics Wallah",
+    "brand": "Biopic, Education",
+    "rating": 4.7,
+    "thumbnail": "https://m.media-amazon.com/images/I/71aYjFjJk0L.SX679.jpg",
+    "description": "Based on the real-life story of Alakh Pandey, a passionate educator from humble beginnings.",
+    "cast": ["Shreedhar Dubey", "Radha Bhatt", "Anurag Thakur"],
+     "category": "Amazon miniT"
+  },
+  {
+    "id": 11,
+    "title": "Revolutionary Spatial Computing Headset",
+    "name": "Apple Vision Pro",
+    "image": "https://m.media-amazon.com/images/I/61v9ZyTbTRL.SX679.jpg",
+    "price": 3499,
+     "category": "Best Sellers"
+
+  },
+  {
+    "id": 12,
+    "title": "Smart Wearable Ring for Health Monitoring",
+    "name": "Samsung Galaxy Ring",
+    "image": "https://m.media-amazon.com/images/I/71pN82OzI1L.SX679.jpg",
+    "price": 399,
+      "category": "Best Sellers"
+
+  },
+  {
+    "id": 13,
+    "title": "Next-Gen Mixed Reality VR Headset",
+    "name": "Meta Quest 3",
+    "image": "https://m.media-amazon.com/images/I/71IOZ2lYJEL.SX679.jpg",
+    "price": 499,
+      "category": "Best Sellers"
+  },
+  {
+    "id": 14,
+    "title": "Advanced TWS Earbuds with Clear Audio",
+    "name": "Nothing Ear (2)",
+    "image": "https://m.media-amazon.com/images/I/51GxIUlL5lL.SX679.jpg",
+    "price": 149,
+      "category": "Best Sellers"
+  },
+  {
+    "id": 15,
+    "title": "Ultralight 4K Drone with Obstacle Sensing",
+    "name": "DJI Mini 4 Pro",
+    "image": "https://m.media-amazon.com/images/I/61OZ6XQtSIL.SX679.jpg",
+    "price": 999,
+    "category": "Best Sellers"
+  },
+  {
+    "id": 16,
+    "title": "6.6\" FHD+ Display, 6000mAh Battery",
+    "name": "Samsung Galaxy M14 5G",
+    "image": "https://m.media-amazon.com/images/I/81ZSn2rk9WL.SX679.jpg",
+    "originalPrice": 14999,
+    "discountedPrice": 10999,
+    "discountPercent": 27,
+    "category": "Electronics"
+  },
+  {
+    "id": 17,
+    "title": "Stretchable Denim for Everyday Wear",
+    "name": "Levi's Men's Slim Fit Jeans",
+    "image": "https://m.media-amazon.com/images/I/91z0fLq2wGL.SY879.jpg",
+    "originalPrice": 2599,
+    "discountedPrice": 1299,
+    "discountPercent": 50,
+    "category": "Sell"
+  },
+  {
+    "id": 18,
+    "title": "Electric Kettle 1.5 Litre, 1500 Watt",
+    "name": "Pigeon by Stovekraft Amaze Plus",
+    "image": "https://m.media-amazon.com/images/I/51qjFi8X9qL.SX679.jpg",
+    "originalPrice": 1095,
+    "discountedPrice": 599,
+    "discountPercent": 45,
+    "category": "Sell"
+  },
+  {
+    "id": 19,
+    "title": "Water-Resistant School/College Bag",
+    "name": "Skybags Brat Backpack",
+    "image": "https://m.media-amazon.com/images/I/91m9R1eZ3nL.SX679.jpg",
+    "originalPrice": 1899,
+    "discountedPrice": 899,
+    "discountPercent": 53,
+    "category": "Sell"
+  },
+  {
+    "id": 20,
+    "title": "Best-Selling Self-Help Book",
+    "name": "Atomic Habits by James Clear",
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.SY522.jpg",
+    "originalPrice": 799,
+    "discountedPrice": 445,
+    "discountPercent": 44,
+    "category": "Sell"
+  },
+  {
+    "id": 21,
+    "title": "Wireless Mouse with 2.4GHz Receiver",
+    "name": "Zebronics Zeb-Rover",
+    "image": "https://m.media-amazon.com/images/I/61bX5v5mGOL.SX679.jpg",
+    "originalPrice": 599,
+    "discountedPrice": 299,
+    "discountPercent": 50,
+    "category": "Sell"
+  },
+  {
+    "id": 22,
+    "title": "The Family Man",
+    "brand": "Action, Drama, Thriller",
+    "rating": 4.7,
+    "thumbnail": "https://m.media-amazon.com/images/I/81s6DUyQCZL.SX679.jpg",
+    "description": "A middle-class man secretly works for the National Investigation Agency to protect the nation from terrorists.",
+    "cast": ["Manoj Bajpayee", "Sharib Hashmi", "Priyamani"],
+    "category": "Prime"
+  },
+  {
+    "id": 23,
+    "title": "Mirzapur",
+    "genre": "Crime, Action, Drama",
+    "rating": 4.6,
+    "thumbnail": "https://m.media-amazon.com/images/I/81XvzF95p2L.SX679.jpg",
+    "description": "A lawless land dominated by the mafia, where power and violence define destiny.",
+    "cast": ["Pankaj Tripathi", "Ali Fazal", "Divyendu Sharma"],
+    "category": "Prime",
+    "price": "3444"
+
+  },
+  {
+    "id": 24,
+    "title": "Panchayat",
+    "genre": "Comedy, Drama",
+    "rating": 4.8,
+    "thumbnail": "https://m.media-amazon.com/images/I/81GWTt7u3rL.SX679.jpg",
+    "description": "An engineering graduate joins as a secretary in a rural village office, facing quirky challenges and people.",
+    "cast": ["Jitendra Kumar", "Raghubir Yadav", "Neena Gupta"],
+    "category": "Comedy Drama",
+    "price": "3444"
+
+  },
+  {
+    "id": 25,
+    "title": "Shershaah",
+    "brand": "Biopic, War, Drama",
+    "rating": 4.5,
+    "thumbnail": "https://m.media-amazon.com/images/I/91UabJ0gGIL.SX679.jpg",
+    "description": "Based on the life of Indian Army Captain Vikram Batra, awarded the Param Vir Chakra.",
+    "cast": ["Sidharth Malhotra", "Kiara Advani"],
+    "category": "Prime",
+    "price": "3444"
+
+  },
+  {
+    "id": 26,
+    "title": "Made in Heaven",
+    "genre": "Drama, Romance",
+    "rating": 4.4,
+    "thumbnail": "https://m.media-amazon.com/images/I/91c0vEFgtFL.SX679.jpg",
+    "description": "Two wedding planners navigate tradition, modernity, and their personal lives in India's elite weddings.",
+    "cast": ["Sobhita Dhulipala", "Arjun Mathur", "Jim Sarbh"],
+    "category": "Prime",
+    "price": "3444"
+  }
+
+]
+}
